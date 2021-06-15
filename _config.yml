@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+deploy:
+  type: git
+  repository: https://github.com/Exileder/exileder.github.io
+  branch: master
